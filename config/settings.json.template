@@ -1,0 +1,12 @@
+{
+	"delay": 1000,
+	"cleanDones": true,
+	"sources": "./",
+	"out": "./",
+	"session": "...",
+	"logs": {
+		"id1": {
+			"since": "2016-10-01"
+		}
+	}
+}

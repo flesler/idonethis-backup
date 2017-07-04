@@ -1,0 +1,24 @@
+{
+  "name": "idonethis-backup",
+  "author": "Ariel Flesler <aflesler@gmail.com>",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node index",
+    "eslint": "eslint ."
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "node-spider": "1.4.x"
+  },
+  "engines": {
+    "node": "6.x"
+  },
+  "devDependencies": {
+    "eslint": "3.x",
+    "eslint-config-airbnb-base": "7.x",
+    "eslint-plugin-import": "1.x",
+    "husky": "0.11.4"
+  }
+}

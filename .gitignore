@@ -1,0 +1,13 @@
+Thumbs.db
+node_modules/*
+style.css
+.DS_Store
+npm-debug.log
+bin/
+temp/*
+*.tsv
+*.log
+*.gz
+*.txt
+.eslintcache
+config/settings.json
